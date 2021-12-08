@@ -4,4 +4,4 @@ Here you will find a (hopefully) developing martial arts website supplying numer
 
 [About Me](https://kungfuwu.github.io/mantis/about-me.html)
 ![kungfustock](https://i.pinimg.com/280x280_RS/ce/72/ac/ce72acb33091e5b1836537e94da98fd6.jpg)
-![School Directory](https://kungfuwu.github.io/mantix/school-directory.html)
+![School Directory](https://kungfuwu.github.io/mantis/school-directory.html)
